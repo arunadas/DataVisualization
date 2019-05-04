@@ -1,0 +1,19 @@
+lines.linewidth:3
+axes.prop_cycle: cycler('color', ['008fd5', 'fc4f30', 'e5ae38', '6d904f', '8b8b8b', '810f7c'])
+#axes.color_cycle:e1e2da, c4c6b5, ebdbd8, c6e2ff, ff0666, 7fa9ee, adc7c9, dddddd, 0e698b, fcaec9
+
+axes.facecolor: ff7373
+figure.facecolor: fde500
+axes.labelsize: 2
+
+axes.grid: true
+grid.linewidth: 0.25
+grid.linestyle: -
+grid.color: 6897bb
+
+font.size: 12
+
+xtick.major.size: 0
+xtick.minor.size: 0
+ytick.major.size: 0
+ytick.minor.size: 0
